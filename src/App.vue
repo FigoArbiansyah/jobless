@@ -12,7 +12,9 @@
           Discover a wide range of remote opportunities on our platform take
           control of your career
         </p>
-        <div class="flex gap-x-8 mt-7 justify-center">
+        <div
+          class="flex max-md:flex-col max-md:gap-y-8 gap-x-8 mt-7 justify-center"
+        >
           <div>
             <a
               href="#"
